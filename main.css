@@ -1,0 +1,177 @@
+body{
+  background-color: hsl(210, 46%, 95%);
+  width: 1440px;
+  height: 900px;
+  border: 1px solid black;
+ 
+}
+.cadre1{
+  width: 1150px;
+  margin: 0 auto;
+  height: 70%;
+  margin-top: 145px;
+  position: relative;
+ 
+}
+.cadre3{
+  width: 831px;
+  position: absolute;
+  height: 90%;
+
+  float: left;
+  border-radius: 5px;
+}
+.cadre4{
+  width: 280px;
+  position: absolute;
+  height: 96%;
+  border-radius: 5px;
+  border-radius: 5px;
+  float: right;
+  margin-left: 75%;
+  background-color:  hwb(0 100% 0%);
+  box-shadow: 2px 2px  20px hwb(197 66% 27%);
+}
+.cadre5{
+  width: 100%;
+  border-radius: 5px;
+  height: 50%;
+  position: absolute;
+
+  float: left;
+  
+}
+.cadre6{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+
+  margin-top: 38.5%;
+  border-radius: 5px;
+  
+  
+}
+.cadre7{
+  width: 64.3%;
+  height: 100%;
+  position: absolute;
+  border-radius: 5px;
+  float: left;
+  background-color: hsl(263, 55%, 52%);
+  
+}
+.cadre8{
+  width: 32%;
+  height: 100%;
+  position: absolute;
+
+  float: right;
+  margin-left: 68%;
+  border-radius: 5px;
+  background-color:  hsl(217, 19%, 35%);
+  
+  
+}
+.cadre9{
+  width: 32%;
+  height: 100%;
+  position: absolute;
+
+  float: left;
+  border-radius: 5px;
+  
+  background-color:  hwb(0 100% 0%);
+  box-shadow: 2px 2px  25px hwb(198 65% 28%);
+  
+}
+.cadre10{
+  width: 64.3%;
+  height: 100%;
+  position: absolute;
+  background-color: hsl(219, 29%, 14%);
+  float: right;
+  margin-left: 35.5%;
+  border-radius: 5px;
+  
+  
+}
+.img{
+  width: 35px;
+  margin-top: 22px;
+  margin-left: 27px;
+  border-radius: 200px;
+  border: 2px solid rgb(151, 113, 212);
+  float: left;
+  position: absolute;
+}
+.text1{
+
+  width: 120px;
+  margin-left: 80px;
+  margin-top: 27px;
+  height: 50px;
+  position: absolute;
+  float: left;
+}
+.img2{
+  width: 35px;
+  margin-top: 22px;
+  margin-left: 25px;
+  border-radius: 200px;
+  position: absolute;
+
+  float: left;
+}
+.text2{
+  color: hsl(0, 0%, 100%);
+  width: 480px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 30px;
+  font-size: 19.5px;
+  font-weight: bold;
+  opacity: 90%;
+
+}
+
+.text3{
+  color: hsl(0, 0%, 81%);
+  width: 480px;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: absolute;
+  margin-top: 177px;
+  margin-left: 28px;
+  font-size: 14px;
+  opacity: 70%;
+  letter-spacing: 0.cap;
+}
+.text5{
+  color: hsl(0, 0%, 81%);
+  width: 80%;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: absolute;
+  margin-top: 177px;
+  margin-left: 28px;
+  font-size: 15px;
+  opacity: 90%;
+  letter-spacing: 0.cap;
+}
+.text4{
+  color: hsl(0, 0%, 100%);
+  width: 80%;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 30px;
+  font-size: 19.5px;
+  font-weight: bold;
+  opacity: 90%;
+
+}
+.img3{
+  position: absolute;
+  float: right;
+  margin-left: 70%;
+  width: 110px;
+}
